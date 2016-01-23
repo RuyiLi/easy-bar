@@ -36,7 +36,7 @@ public class BarData{
 	static JTextField ylabel = new JTextField("Y-Label...");
 	
 	public static void main(String[] args){
-		final JFrame f = new JFrame("Bar Graph Data - GraphMe");
+		final JFrame f = new JFrame("Bar Graph Data - EasyBar");
 		//only height resizable
 		f.addComponentListener(new ComponentAdapter() {
 
