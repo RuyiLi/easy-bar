@@ -29,7 +29,7 @@ public class BarGUI extends JFrame{
 	
 	//mainframe
 	public BarGUI(){
-		super("Bar Graph Display - GraphMe");
+		super("Bar Graph Display - EasyBar");
 		      
 		chartPanel.setPreferredSize(new java.awt.Dimension(600, 600));  
 		setSize(600, 600);
